@@ -1,4 +1,4 @@
-# SSR фреймворк Fresh на Deno
+# SSR фреймворк Fresh на Deno (Islands Architecture)
 
 
 Используемые технологии:
